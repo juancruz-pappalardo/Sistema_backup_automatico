@@ -11,10 +11,10 @@ Características
 - 📝 Logging de todas las operaciones
 
 🛠️ Tecnologías Utilizadas
-- **Bash Scripting** - Automatización
-- **MySQLdump** - Exportación de BDs
-- **Tar/Gzip** - Compresión de archivos
-- **Cron** - Programación
+- Bash Scripting - Automatización
+- MySQLdump - Exportación de BDs
+- Tar/Gzip - Compresión de archivos
+- Cron - Programación
 
 📋 Requisitos Previos
 - bash
